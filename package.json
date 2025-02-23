@@ -1,4 +1,5 @@
 {
+  "main": "src/index.jsx",
   "name": "charalampos-portfolio",
   "version": "0.1.0",
   "private": true,
